@@ -27,6 +27,7 @@ La clase OCR recibe los siguientes parámetros al momento de ser instanciada:
  - plot (bool) (Opcional): Indica si se desea graficar la imagen. Por defecto es falso.
 
  - raw (bool) (Opcional): Indica si se desea utilizar la imagen sin modificar. Por defecto la imagen se modifica para aumentar su contraste y mejorar la lectura.
+
 Los métodos públicos definidos en la clase son:
  - setImgName, que recibe como parámetro img_name (str): Nombre de la imagen sobre la cual se realizará la lectura.
     
